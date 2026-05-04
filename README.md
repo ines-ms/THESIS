@@ -1,7 +1,7 @@
 # Thesis Model — AI Inference Infrastructure Simulation
 
 Python simulation code for the BIE Final Project thesis
-**"Optimal AI Inference Infrastructure Sizing Under Demand Uncertainty: A Simulation-Based Real Options Analysis"**
+**"AI Inference Infrastructure Under Uncertainty: A Simulation-Based Real Options Analysis of Sizing and Revision"**
 
 IE University, BIE Final Project, May 2026.
 
